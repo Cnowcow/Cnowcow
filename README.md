@@ -6,7 +6,7 @@
 - 😄 기술과 사람 사이의 교량 역할을 목표로 하는 개발자가 될 것입니다.
 <hr><br>
 
-## 노션 이력서 보러가기 ---> <a href="https://checker-breadfruit-faf.notion.site/2de9678cb5244e3aa6c4a6c4db289349"><img src="https://github.com/user-attachments/assets/7b6698d4-f3fd-4d0d-be04-df66e0d5f81f"></a>
+## 노션 이력서 보러가기 ---> <a href="https://checker-breadfruit-faf.notion.site/10c46e0f1f1b80828c71c96187cd4c0b"><img src="https://github.com/user-attachments/assets/7b6698d4-f3fd-4d0d-be04-df66e0d5f81f"></a>
 <hr><br>
 
 
