@@ -13,7 +13,7 @@
 기술적 지식과 사람에 대한 이해를 바탕으로, 기술적 솔루션이 사용자에게 실질적인 가치를 제공할 수 있도록 노력하는 신입 개발자입니다.
 <hr><br>
 
-## 노션 이력서 보러가기 ---> <a href="https://checker-breadfruit-faf.notion.site/10c46e0f1f1b80828c71c96187cd4c0b"><img src="https://github.com/user-attachments/assets/7b6698d4-f3fd-4d0d-be04-df66e0d5f81f"></a>
+## 노션 이력서 보러가기 ---> <a href="https://checker-breadfruit-faf.notion.site/11346e0f1f1b808fbec8f76df1a7c73d"><img src="https://github.com/user-attachments/assets/7b6698d4-f3fd-4d0d-be04-df66e0d5f81f"></a>
 <hr><br>
 
 
