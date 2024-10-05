@@ -16,14 +16,19 @@
 ## 노션 이력서 보러가기 ---> <a href="https://checker-breadfruit-faf.notion.site/11346e0f1f1b808fbec8f76df1a7c73d"><img src="https://github.com/user-attachments/assets/7b6698d4-f3fd-4d0d-be04-df66e0d5f81f"></a>
 <hr><br>
 
+## 개인 블로그
+https://nowcow.tistory.com/
+<br>
+https://velog.io/@nowcow/posts
+<hr>
 
 # ✨기술스택✨
 
 ### 💻 프로그래밍 언어 💻
 
-|<img src="https://github.com/user-attachments/assets/e37eb89d-abd8-4b73-913a-970ef8ac2db4">|<img src="https://github.com/user-attachments/assets/57985638-3de9-45b8-9519-47b6c0f96342">|<img src="https://github.com/user-attachments/assets/ca92d296-cae7-46d6-9aea-c7ee41925eee">|<img src="https://github.com/user-attachments/assets/80a15ed0-7f5f-48c4-ae4e-1e18f717a824">|
-|:---:|:---:|:---:|:---:|
-|Java|JavaScript|HTML5|CSS3|
+|<img src="https://github.com/user-attachments/assets/e37eb89d-abd8-4b73-913a-970ef8ac2db4">|<img src="https://github.com/user-attachments/assets/57985638-3de9-45b8-9519-47b6c0f96342">|<img src="https://github.com/user-attachments/assets/ca92d296-cae7-46d6-9aea-c7ee41925eee">|<img src="https://github.com/user-attachments/assets/80a15ed0-7f5f-48c4-ae4e-1e18f717a824">|<img src="https://github.com/user-attachments/assets/85c2f1ac-c864-4059-bc68-6ff67ffa7a4a">|
+|:---:|:---:|:---:|:---:|:---:|
+|Java|JavaScript|HTML5|CSS3|node.js|
 <br>
 
 ### 📚 프레임워크 및 라이브러리 📚
@@ -45,8 +50,7 @@
 <br>
 
 ### 🛠️ 개발도구 🛠️
-|<img src="https://github.com/user-attachments/assets/04750eda-60a5-4b85-9fba-1870789c0677">|<img src="https://github.com/user-attachments/assets/db44ac01-b8f2-42eb-bbff-12186df86d14">|<img src="https://github.com/user-attachments/assets/d6d810fa-6413-4ddd-a562-6022612ddfaa">|
-|:---:|:---:|:---:|
-|GitHub|IntelliJ IDEA|Eclipse IDE|
+|<img src="https://github.com/user-attachments/assets/04750eda-60a5-4b85-9fba-1870789c0677">|<img src="https://github.com/user-attachments/assets/db44ac01-b8f2-42eb-bbff-12186df86d14">|<img src="https://github.com/user-attachments/assets/d6d810fa-6413-4ddd-a562-6022612ddfaa">|<img src="https://github.com/user-attachments/assets/4c612e7a-5716-4ece-8b21-40a825a491c8">|
+|:---:|:---:|:---:|:---:|
+|GitHub|IntelliJ IDEA|Eclipse IDE|Docker|
 <hr><br>
-
